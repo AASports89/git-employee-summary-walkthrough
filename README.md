@@ -103,28 +103,28 @@ node index.js
 
 > **Note**: The following images show a mock-up of **'Git Employee Summary'**, the generated HTML’s appearance, and functionality:
 
-![HTML webpage titled “Git Employee Summary ” features four boxes listing employee names, titles, and other key info.](./renderedRoladex/assets/images/mpg.png)
+![HTML webpage titled “Git Employee Summary ” features four boxes listing employee names, titles, and other key info.](./images/mpg.png)
 
 > **Note**: The following images show a mock-up of the installation, test, and running of the application:
 
 * **Installation:**
 
-<img src=./renderedRoladex/assets/images/install.png>
+<img src=./images/install.png>
 
 * **Running Tests:**
 
-<img src=./renderedRoladex/assets/images/test.png>
+<img src=./images/test.png>
 
 * **App Prompt(s):**
-<img src=./renderedRoladex/assets/images/prompt.png>
+<img src=./images/prompt.png>
 
 * **Error Hard Stop:**
 
-<img src=./renderedRoladex/assets/images/error.png>
+<img src=./images/error.png>
 
 * **Complete Run:**
 
-<img src=./renderedRoladex/assets/images/complete.png>
+<img src=./images/complete.png>
 
 
 
